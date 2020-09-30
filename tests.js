@@ -2,8 +2,7 @@ var assert = chai.assert
 
 describe('variables', function () {
   it('givenName should equal Addison', function () {
-    assert.equal('Addison', givenName)
-  })
+    
   it('candies should equal 20', function () {
     assert.equal(20, candies)
   })
